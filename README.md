@@ -4,9 +4,13 @@
     <h2>My Project</h2>
     <h3>Project Name: Anatabu</h3>
             <div>
-            <img width=130 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot 1">
+            <img width=130 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
             </div>
-</div>
+    <h3>Project Name: Tap Mania</h3>
+            <div>
+            <img width=130 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+            </div>
+    </div>
         
     
 
