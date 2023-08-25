@@ -3,9 +3,7 @@
 <div align="center">
     <h2>My Project</h2>
     <h3>Project Name: Anatabu</h3>
-    
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <div>
+            <div>
             <img src="https://www.example.com/project_screenshot1.png" alt="Anatabu Screenshot 1">
             <p>First Screenshot Description</p>
         </div>
@@ -15,7 +13,7 @@
             <p>Second Screenshot Description</p>
         </div>
     </div>
-</div>
+    </div>
 
 
 <h3 align="left">Connect with me:</h3>
