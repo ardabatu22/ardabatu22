@@ -5,16 +5,16 @@
     <h2>My Project</h2>
     <table border="3">
         <tr>
-            <td>
+            <td align="center" valign="middle">
                 <div class="project">
                     <h3>Project Name: Anatabu</h3>
-                    <img width center="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+                    <img width ="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
                 </div>
             </td>
             <td>
                 <div class="project">
                     <h3>Project Name: Tap Mania</h3>
-                    <img width center="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Tap Mania Screenshot">
+                    <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Tap Mania Screenshot">
                 </div>
             </td>
         </tr>
