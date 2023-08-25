@@ -7,12 +7,8 @@
             <img src="https://www.example.com/project_screenshot1.png" alt="Anatabu Screenshot 1">
             <p>First Screenshot Description</p>
             </div>
+</div>
         
-            <div>
-            <img src="https://www.example.com/project_screenshot2.png" alt="Anatabu Screenshot 2">
-            <p>Second Screenshot Description</p>
-            </div>
-    </div>
     
 
 
