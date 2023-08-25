@@ -4,9 +4,9 @@
     <h2>My Project</h2>
             <div>
             <h3>Project Name: Anatabu</h3>
-            <img width=130 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+            <img width=110 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
             <h3>Project Name: Tap Mania</h3>
-            <img width=130 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+            <img width=110 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
             </div>
    
 <h3 align="left">Connect with me:</h3>
