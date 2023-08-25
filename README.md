@@ -2,10 +2,21 @@
 <h3 align="center">I'm currently focusing on becoming proficient in the Swift programming language. Alongside that, I have a curiosity about other mobile programming languages. I am currently studying computer engineering and working on improving my skills in the software development field. I'm also working part-time at Asebay and collaborating with my team on various projects to enhance our expertise in both web and mobile development.</h3>
 <div align="center">
     <h2>My Project</h2>
-    <hr>
     <h3>Project Name: Anatabu</h3>
-    <img src="project_screenshot.png" alt="Anatabu Screenshot">
+    
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <div>
+            <img src="[project_screenshot1.png](https://hizliresim.com/5pe3lwh)" alt="Anatabu Screenshot 1">
+            <p>First Screenshot Description</p>
+        </div>
+        
+        <div>
+            <img src="project_screenshot2.png" alt="Anatabu Screenshot 2">
+            <p>Second Screenshot Description</p>
+        </div>
+    </div>
 </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/batuhan-arda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-arda" height="30" width="40" /></a>
