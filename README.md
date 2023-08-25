@@ -4,7 +4,7 @@
     <h2>My Project</h2>
     <h3>Project Name: Anatabu</h3>
             <div>
-            <img src="https://www.example.com/project_screenshot1.png" alt="Anatabu Screenshot 1">
+            <img src="https://hizliresim.com/5pe3lwh" alt="Anatabu Screenshot 1">
             <p>First Screenshot Description</p>
             </div>
 </div>
