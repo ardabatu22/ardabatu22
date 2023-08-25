@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I'm currently focusing on becoming proficient in the Swift programming language. Alongside that, I have a curiosity about other mobile programming languages. I am currently studying computer engineering and working on improving my skills in the software development field. I'm also working part-time at Asebay and collaborating with my team on various projects to enhance our expertise in both web and mobile development.</h3>
+<style>
+        table {
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 2px solid black;
+        }
+
+        td {
+            vertical-align: middle;
+            text-align: center;
+        }
+    </style>
 <div align="center">
     <h2>My Project</h2>
     <table border="3">
