@@ -2,12 +2,16 @@
 <h3 align="center">I'm currently focusing on becoming proficient in the Swift programming language. Alongside that, I have a curiosity about other mobile programming languages. I am currently studying computer engineering and working on improving my skills in the software development field. I'm also working part-time at Asebay and collaborating with my team on various projects to enhance our expertise in both web and mobile development.</h3>
 <div align="center">
     <h2>My Project</h2>
-            <div>
-            <h3>Project Name: Anatabu</h3>
-            <img width=110 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
-            <h3>Project Name: Tap Mania</h3>
-            <img width=110 src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
-            </div>
+    <div class="project">
+        <h3>Project Name: Anatabu</h3>
+        <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+    </div>
+    <div class="project">
+        <h3>Project Name: Tap Mania</h3>
+        <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Tap Mania Screenshot">
+    </div>
+</div>
+
    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
