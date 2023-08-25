@@ -11,7 +11,7 @@
                     <img width ="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
                 </div>
             </td>
-            <td>
+            <td align="center" valign="middle">
                 <div class="project">
                     <h3>Project Name: Tap Mania</h3>
                     <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Tap Mania Screenshot">
