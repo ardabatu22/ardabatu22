@@ -6,16 +6,17 @@
     
     <div style="display: flex; justify-content: center; align-items: center;">
         <div>
-            <img src="https://hizliresim.com/5pe3lwh" alt="Anatabu Screenshot 1">
+            <img src="https://www.example.com/project_screenshot1.png" alt="Anatabu Screenshot 1">
             <p>First Screenshot Description</p>
         </div>
         
         <div>
-            <img src="project_screenshot2.png" alt="Anatabu Screenshot 2">
+            <img src="https://www.example.com/project_screenshot2.png" alt="Anatabu Screenshot 2">
             <p>Second Screenshot Description</p>
         </div>
     </div>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
