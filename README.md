@@ -6,7 +6,7 @@
     
     <div style="display: flex; justify-content: center; align-items: center;">
         <div>
-            <img src="[project_screenshot1.png](https://hizliresim.com/5pe3lwh)" alt="Anatabu Screenshot 1">
+            <img src="https://hizliresim.com/5pe3lwh" alt="Anatabu Screenshot 1">
             <p>First Screenshot Description</p>
         </div>
         
