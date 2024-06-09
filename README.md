@@ -9,7 +9,7 @@
                 <div class="project">
                     <h3>Project Name: Learn & Tabue </h3>
                     <h2>Taboo game that makes learning English words easier, which I developed in the English Proficiency School.</h3>
-                    <img width ="110" src="https://hizliresim.com/tbgb20z" alt="Anatabu Screenshot">
+                    <img width ="110" src="https://i.hizliresim.com/tbgb20z.jpg" alt="Anatabu Screenshot">
                 </div>
             </td>
             ta
