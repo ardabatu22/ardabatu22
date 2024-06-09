@@ -9,22 +9,17 @@
                 <div class="project">
                     <h3>Project Name: Learn & Tabue</h3>
                     <h4>Taboo game that makes learning English words easier, which I developed in the English Proficiency School.</h4>
-                    <div style="display: flex; justify-content: center; gap: 10px;">
-                        <div style="border: 2px solid brown; padding: 5px; display: inline-block;">
-                            <img width="110" src="https://i.hizliresim.com/tbgb20z.jpg" alt="Anatabu Screenshot">
-                        </div>
-                        <div style="border: 2px solid brown; padding: 5px; display: inline-block;">
-                            <img width="110" src="https://i.hizliresim.com/rezyskb.jpg" alt="Anatabu Screenshot">
-                        </div>
-                        <div style="border: 2px solid brown; padding: 5px; display: inline-block;">
-                            <img width="110" src="https://i.hizliresim.com/ftavn81.jpg" alt="Anatabu Screenshot">
-                        </div>
+                    <div style="border: 2px solid brown; padding: 10px; display: inline-block;">
+                        <img width="110" src="https://i.hizliresim.com/tbgb20z.jpg" alt="Anatabu Screenshot" style="margin-right: 10px;">
+                        <img width="110" src="https://i.hizliresim.com/rezyskb.jpg" alt="Anatabu Screenshot" style="margin-right: 10px;">
+                        <img width="110" src="https://i.hizliresim.com/ftavn81.jpg" alt="Anatabu Screenshot">
                     </div>
                 </div>
             </td>
         </tr>
     </table>
 </div>
+
 
 
 
