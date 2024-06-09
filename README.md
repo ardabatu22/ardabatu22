@@ -2,21 +2,17 @@
 <h3 align="center">I am a Software Engineering student at Bahçeşehir University. I transferred to this program from the Computer Programming department at Trakya University through the DGS exam. I love engaging with software and technology. I chose mobile software development because it allows me to easily concretize my abstract ideas, enabling me to upload everything I imagine to the App Store. The programming language I focus on is Swift, as I am very fond of the Apple ecosystem. Additionally, I enjoy keeping up with technological developments and global trends because I believe a software developer should be current and dynamic. Inspired by this, I share the latest technology news on my website.</h3>
 
 <div align="center">
-    <h2>My Project</h2>
+    <h2>My Projects</h2>
     <table border="3">
         <tr>
             <td align="center" valign="middle">
                 <div class="project">
-                    <h3>Project Name: Anatabu</h3>
-                    <img width ="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Anatabu Screenshot">
+                    <h3>Project Name: Learn & Tabue </h3>
+                    <h2>Taboo game that makes learning English words easier, which I developed in the English Proficiency School.</h3>
+                    <img width ="110" src="https://hizliresim.com/tbgb20z" alt="Anatabu Screenshot">
                 </div>
             </td>
-            <td align="center" valign="middle">
-                <div class="project">
-                    <h3>Project Name: Tap Mania</h3>
-                    <img width="110" src="https://i.hizliresim.com/5pe3lwh.png" alt="Tap Mania Screenshot">
-                </div>
-            </td>
+            ta
         </tr>
     </table>
 </div>
