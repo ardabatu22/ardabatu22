@@ -10,13 +10,13 @@
                     <h3>Project Name: Learn & Tabue</h3>
                     <h4>Taboo game that makes learning English words easier, which I developed in the English Proficiency School.</h4>
                     <div style="display: flex; gap: 10px; justify-content: center;">
-                        <div style="border: 2px solid black; padding: 5px;">
+                        <div style="border: 2px solid brown; padding: 5px;">
                             <img width="110" src="https://i.hizliresim.com/tbgb20z.jpg" alt="Anatabu Screenshot">
                         </div>
-                        <div style="border: 2px solid black; padding: 5px;">
+                        <div style="border: 2px solid brown; padding: 5px;">
                             <img width="110" src="https://i.hizliresim.com/rezyskb.jpg" alt="Anatabu Screenshot">
                         </div>
-                        <div style="border: 2px solid black; padding: 5px;">
+                        <div style="border: 2px solid brown; padding: 5px;">
                             <img width="110" src="https://i.hizliresim.com/ftavn81.jpg" alt="Anatabu Screenshot">
                         </div>
                     </div>
@@ -25,6 +25,7 @@
         </tr>
     </table>
 </div>
+
 
    
 <h3 align="left">Connect with me:</h3>
