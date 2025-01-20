@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">I am a Software Engineering student at Bahçeşehir University. I transferred to this program from the Computer Programming department at Trakya University through the DGS exam. I love engaging with software and technology. 
-    I chose mobile software development because it allows me to easily concretize my abstract ideas, enabling me to upload everything I imagine to the App Store. The programming language I focus on is Swift, as I am very fond of the Apple ecosystem. Additionally, I enjoy keeping up with technological developments and global trends because I believe a software developer should be current and dynamic. Inspired by this, I share the latest technology news on my website.</h3>
+<h4 align="center">I am a Software Engineering student at Bahçeşehir University. I transferred to this program from the Computer Programming department at Trakya University through the DGS exam. I love engaging with software and technology. 
+    I chose mobile software development because it allows me to easily concretize my abstract ideas, enabling me to upload everything I imagine to the App Store. The programming language I focus on is Swift, as I am very fond of the Apple ecosystem. Additionally, I enjoy keeping up with technological developments and global trends because I believe a software developer should be current and dynamic. Inspired by this, I share the latest technology news on my website.</h4>
 
 <div align="center">
     <h2>My Applications</h2>
@@ -58,4 +58,11 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  </a>
 </p>
+
