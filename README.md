@@ -19,7 +19,7 @@
             <td align="center" valign="top">
                 <div class="project">
                     <h3>Important Days </h3>
-                    <p>A mobile application that helps users track their daily expenses and manage budgets efficiently.</p>
+                    <p>In this application, you can list important days in countries or add your own important days</p>
                     <div style="border: 2px solid green; padding: 10px;">
                         <img width="150" src="https://www.cherrbay.com/wp-content/uploads/2024/08/important-days-1-768x1662.png" alt="Important Days Screenshot">
                     </div>
