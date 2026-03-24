@@ -1,30 +1,60 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h4 align="center">I am a Software Engineering student at Bahçeşehir University. I transferred to this program from the Computer Programming department at Trakya University through the DGS exam. I love engaging with software and technology. 
-    I chose mobile software development because it allows me to easily concretize my abstract ideas, enabling me to upload everything I imagine to the App Store. The programming language I focus on is Swift, as I am very fond of the Apple ecosystem. Additionally, I enjoy keeping up with technological developments and global trends because I believe a software developer should be current and dynamic. Inspired by this, I share the latest technology news on my website.</h4>
+<h1 align="center">Hi, I'm Batuhan Arda</h1>
 
-
-
-
-
-
-
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/batuhan-arda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-arda" height="30" width="40" /></a>
-<a href="https://www.instagram.com/batuuhanard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ios.cherrbay" height="30" width="40" /></a>
+<p align="center">
+  <strong>iOS Developer</strong> crafting apps with Swift & SwiftUI
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:batuardahan22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.cherrbay.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white" />
   </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
+  <a href="https://github.com/ardabatu22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
+---
+
+### About Me
+
+- Building iOS applications with **Swift**, **SwiftUI**, and **UIKit**
+- Focused on clean architecture, protocol-oriented design, and modern concurrency
+- Currently working on open-source **SPM libraries** for the iOS community
+- Always learning, always shipping
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**NetworkKit**](https://github.com/ardabatu22/NetworkKit) | Async/await networking library with interceptors & retry | Swift, URLSession, SPM |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardabatu22&show_icons=true&theme=swift&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardabatu22&theme=swift&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardabatu22&layout=compact&theme=swift&hide_border=true" width="40%" />
+</p>
