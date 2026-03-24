@@ -11,8 +11,8 @@
   <a href="https://www.cherrbay.com">
     <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white" />
   </a>
-  <a href="https://github.com/ardabatu22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/batuhan-arda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
